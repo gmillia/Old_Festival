@@ -1,0 +1,3 @@
+Name: Inside Event; Location: Inside; Keywords: Inside, Fun Event, Free Beer
+Name: Outside Event; Location: Outside; Keywords: Outside, Fun, Free Beer
+Name: Regular Event; Location: Mixed; Keywords: Fun, Free Beer
